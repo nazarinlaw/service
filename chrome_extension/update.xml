@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>  
+    <app appid='imoinlmdcoopecokpneelidnjdadpdgj'>
+        <updatecheck codebase='https://raw.githubusercontent.com/nazarinlaw/service/master/chrome_extension/WebAssist_Extension_Lite.crx' version='1.0' />
+    </app>
+</gupdate>

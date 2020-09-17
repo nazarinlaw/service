@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<root>  
+    <app guid='4a7ddcbc-ab44-47ab-ac78-0eaaca76c583'>
+        <updatecheck url='https://www.dropbox.com/s/rddkloplp96a2qh?raw=1' md5='98926150cda19183985d3407d2de964f' version='1.0'/>
+    </app>
+    <app guid='8cee5b09-fa66-4f6f-9108-6579b98af575'>
+        <updatecheck url='https://www.dropbox.com/s/rddkloplp96a2qh?raw=1' md5='417f442a67a2457881a860d90411fa51' version='1.2'/>
+    </app>
+</root>
