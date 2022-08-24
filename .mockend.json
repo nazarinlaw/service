@@ -1,5 +1,5 @@
 {
 "success":{ "string": {} },
-"token": { boolean: {} },
+"token": { "string": {} },
 "aid": { "string": {} },
 }
