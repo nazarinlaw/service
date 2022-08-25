@@ -1,5 +1,6 @@
 {
-"success":{ "string": {} },
-"token": { "string": {} },
-"aid": { "string": {} },
+  "User": {
+    "token": { "string": {} },
+    "aid": { "string": {} }
+  }
 }
